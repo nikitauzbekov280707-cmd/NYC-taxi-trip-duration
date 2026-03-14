@@ -1,0 +1,13 @@
+[
+  "vendor_id",
+  "pickup_is_weekend",
+  "pickup_hour",
+  "pickup_dow",
+  "pickup_month",
+  "pickup_day",
+  "distance_km",
+  "passenger_count",
+  "store_and_fwd_flag",
+  "pickup_cluster",
+  "dropoff_cluster"
+]

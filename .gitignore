@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+sample_sumbission/
+test/
+train/
+/submission.csv
+/test.py
+kmeans.joqblib
+model.joblib
